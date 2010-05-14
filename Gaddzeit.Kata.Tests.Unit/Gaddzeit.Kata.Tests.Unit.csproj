@@ -53,9 +53,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TreatmentTests.cs" />
     <Compile Include="DomainEntityTests.cs" />
     <Compile Include="PetTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TreatmentTypeTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Gaddzeit.Kata.Domain\Gaddzeit.Kata.Domain.csproj">

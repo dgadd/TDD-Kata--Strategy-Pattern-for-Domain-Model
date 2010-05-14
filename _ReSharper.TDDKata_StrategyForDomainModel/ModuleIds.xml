@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="7F0C0FC6-754E-43AC-9E06-3170F963EB04" ModuleId="Gaddzeit.Kata.Domain" />
+  <Module PersistentId="7803DE35-6FD4-4A6A-B102-0CE14BEDB35C" ModuleId="Gaddzeit.Kata.Tests.Unit" />
+</Modules>

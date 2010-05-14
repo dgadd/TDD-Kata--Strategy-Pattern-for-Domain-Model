@@ -1,0 +1,10 @@
+This project demonstrates a TDD kata for building Strategy Pattern in a domain model.
+
+The TDD kata is located here: 
+
+http://codingsolutions.blogspot.com/2010/05/tdd-kata-for-building-strategy-pattern.html
+
+The final test, which demonstrates the complete, encapsulated Strategy Pattern, is this:
+
+var sut = new Treatment(Treatment.TreatmentEnum.Dietary);
+sut.TreatmentType.CourseOfAction.ShouldEqual("Give dietary advice.");
