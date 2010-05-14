@@ -1,0 +1,5 @@
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Domain\bin\Debug\Gaddzeit.Kata.Domain.dll
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Domain\bin\Debug\Gaddzeit.Kata.Domain.pdb
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Domain\obj\Debug\Gaddzeit.Kata.Domain.dll
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Domain\obj\Debug\Gaddzeit.Kata.Domain.pdb
