@@ -1,0 +1,9 @@
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Tests.Unit\bin\Debug\Gaddzeit.Kata.Tests.Unit.dll
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Tests.Unit\bin\Debug\Gaddzeit.Kata.Tests.Unit.pdb
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Tests.Unit\bin\Debug\Gaddzeit.Kata.Domain.dll
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Tests.Unit\bin\Debug\NBehave.Spec.NUnit.dll
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Tests.Unit\bin\Debug\nunit.framework.dll
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Tests.Unit\bin\Debug\Gaddzeit.Kata.Domain.pdb
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Tests.Unit\obj\Debug\ResolveAssemblyReference.cache
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Tests.Unit\obj\Debug\Gaddzeit.Kata.Tests.Unit.dll
+C:\SourceCode\dotNet\TDDKata_StrategyForDomainModel\Gaddzeit.Kata.Tests.Unit\obj\Debug\Gaddzeit.Kata.Tests.Unit.pdb

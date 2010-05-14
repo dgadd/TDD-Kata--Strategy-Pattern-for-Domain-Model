@@ -1,0 +1,54 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7F0C0FC6-754E-43AC-9E06-3170F963EB04/f:DomainEntity.cs" caret="93" fromTop="3" />
+      <File id="7803DE35-6FD4-4A6A-B102-0CE14BEDB35C/f:DomainEntityTests.cs" caret="555" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7803DE35-6FD4-4A6A-B102-0CE14BEDB35C/f:DomainEntityTests.cs" caret="0" fromTop="0" />
+      <File id="7803DE35-6FD4-4A6A-B102-0CE14BEDB35C/f:DomainEntityTests.cs" caret="404" fromTop="15" />
+      <File id="7F0C0FC6-754E-43AC-9E06-3170F963EB04/f:DomainEntity.cs" caret="30" fromTop="0" />
+      <File id="7F0C0FC6-754E-43AC-9E06-3170F963EB04/f:DomainEntity.cs" caret="93" fromTop="3" />
+      <File id="7803DE35-6FD4-4A6A-B102-0CE14BEDB35C/f:DomainEntityTests.cs" caret="555" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="1" />
+      <Item value="NBehave.Spec.NUnit" priority="0" />
+      <Item value="NUnit.Framework" priority="0" />
+      <Item value="TestFixture" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="1" />
+      <Item value="DomainEntityTests`0" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="commonId" priority="0" />
+      <Item value="Domain" priority="0" />
+      <Item value="DomainEntity`0" priority="0" />
+      <Item value="sut1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Gaddzeit.Kata.Domain.DomainEntity">
+      <Item value="ShouldEqual`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
